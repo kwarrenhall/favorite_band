@@ -3,7 +3,11 @@
   min-height: 2200px;
   background-color: yellow;
   float: left;
+  text-align: center;
+}
 
+ul {
+  list-style-type: none;
 }
 
 img {
@@ -24,5 +28,23 @@ img {
 
 .GetDown {
   margin-top: 85px;
+}
 
+.bio {
+  border: 2px solid green;
+  padding: 4px;
+  margin: 12px;
+  background-color: orange;
+}
+
+h1 {
+  text-align: center;
+}
+
+.redgraph {
+  color: red;
+}
+
+.greengraph {
+  color: green;
 }
