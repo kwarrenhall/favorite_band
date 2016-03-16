@@ -1,0 +1,28 @@
+.sidebar{
+  width: 30%;
+  min-height: 2200px;
+  background-color: yellow;
+  float: left;
+
+}
+
+img {
+  width: 65%;
+  height: auto;
+}
+
+.thao {
+  float: left;
+  width:20%;
+  margin-right: 15px;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
+
+.GetDown {
+  margin-top: 85px;
+
+}
