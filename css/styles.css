@@ -41,6 +41,7 @@ img {
 
 h1 {
   text-align: center;
+  color: white;
 }
 
 .redgraph {
@@ -56,5 +57,9 @@ h1 {
 }
 
 body{
-  background-color: lightblue;
+  background-image: url("http://examinedlifeliving.org/wp-content/uploads/2015/09/Screenshot_from_IMAX%C2%AE_3D_movie_Hidden_Universe_showing_the_Helix_Nebula_in_infrared.jpg");
+}
+
+h2 {
+  color: white;
 }
