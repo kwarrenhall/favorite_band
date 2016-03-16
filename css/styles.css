@@ -22,8 +22,10 @@ img {
 }
 
 .column {
-  width: 300px;
+  width: 200px;
   float: left;
+  background-color: black;
+  border: 2px solid red;
 }
 
 .GetDown {
@@ -47,4 +49,12 @@ h1 {
 
 .greengraph {
   color: green;
+}
+
+.yellowgraph {
+  color: yellow;
+}
+
+body{
+  background-color: lightblue;
 }
