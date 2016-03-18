@@ -1,51 +1,64 @@
-.sidebar{
-  width: 30%;
-  min-height: 2200px;
+body {
+  background-image: url("http://examinedlifeliving.org/wp-content/uploads/2015/09/Screenshot_from_IMAX%C2%AE_3D_movie_Hidden_Universe_showing_the_Helix_Nebula_in_infrared.jpg");
+}
+
+#mainimg {
+  background-image: url("http://www.thaoandthegetdownstaydown.com/wp-content/uploads/2016/01/a-man-alive.jpg");
+  min-height: 700px;
+  background-repeat: no-repeat;
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+}
+
+.sidebar {
+  min-height: 1250px;
   background-color: yellow;
   float: left;
-  text-align: center;
+  /*text-align: left;*/
+  font-size: 90%;
+  padding-left: 25px;
 }
 
 ul {
   list-style-type: none;
 }
 
-img {
-  width: 65%;
-  height: auto;
+#ThaoGetDown {
+  width: 85%;
 }
 
 .thao {
   float: left;
-  width:20%;
+  width: 90%;
   margin-right: 15px;
 }
 
 .column {
-  width: 200px;
   float: left;
-  background-color: black;
-  border: 2px solid red;
 }
 
 .GetDown {
-  margin-top: 85px;
+  background-color: red;
+  max-width: 800px;
 }
+
 
 .bio {
-  border: 2px solid green;
-  padding: 4px;
-  margin: 12px;
   background-color: orange;
+  color: white;
+  max-width: 800px;
 }
 
-h1 {
-  text-align: center;
-  color: white;
-}
 
 .redgraph {
-  color: red;
+  color: orange;
 }
 
 .greengraph {
@@ -54,12 +67,4 @@ h1 {
 
 .yellowgraph {
   color: yellow;
-}
-
-body{
-  background-image: url("http://examinedlifeliving.org/wp-content/uploads/2015/09/Screenshot_from_IMAX%C2%AE_3D_movie_Hidden_Universe_showing_the_Helix_Nebula_in_infrared.jpg");
-}
-
-h2 {
-  color: white;
 }
